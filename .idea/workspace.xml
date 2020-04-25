@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9cdf225-735c-4827-8742-df75003c59f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJL3DVaX4mRzjcwMV8s3TONE4s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/shop" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nazmul\Desktop\Dev\django_ecommerce\django_ecommerce\templates\shop" />
+      <recent name="C:\Users\Nazmul\Desktop\Dev\django_ecommerce\django_ecommerce\templates" />
+      <recent name="C:\Users\Nazmul\Desktop\Dev\django_ecommerce\django_ecommerce\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nazmul\Desktop\Dev\django_ecommerce\django_ecommerce\templates\shop" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="django_ecommerce" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_ecommerce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9cdf225-735c-4827-8742-df75003c59f7" name="Default Changelist" comment="" />
+      <created>1586448551124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586448551124</updated>
+      <workItem from="1586448559219" duration="1869000" />
+      <workItem from="1586469878556" duration="3376000" />
+      <workItem from="1586478069382" duration="807000" />
+      <workItem from="1586478972079" duration="2064000" />
+      <workItem from="1586537035990" duration="7814000" />
+      <workItem from="1586613493269" duration="4629000" />
+      <workItem from="1586703646828" duration="628000" />
+      <workItem from="1586762889146" duration="2614000" />
+      <workItem from="1587095620945" duration="1757000" />
+      <workItem from="1587136709625" duration="7858000" />
+      <workItem from="1587181679153" duration="8351000" />
+      <workItem from="1587226703497" duration="619000" />
+      <workItem from="1587266511850" duration="4156000" />
+      <workItem from="1587278700326" duration="1386000" />
+      <workItem from="1587307360099" duration="2869000" />
+      <workItem from="1587355040112" duration="521000" />
+      <workItem from="1587367261670" duration="12050000" />
+      <workItem from="1587436962047" duration="3030000" />
+      <workItem from="1587477973513" duration="1214000" />
+      <workItem from="1587541096395" duration="5960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587199445554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587199445554" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586473735334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586473735334" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1587541112430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587541112430" />
+  </component>
+</project>
